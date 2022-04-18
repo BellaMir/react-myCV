@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  background-color: rgba(5, 114, 161, 0.819);
+  font-family: 'Mukta', sans-serif;
+}
+.custom-btn{
+  padding: 5px;
+  background-color: rgba(47, 79, 79, 0.153);
+  margin: 5px;
+  border-radius: 12px;
+  font-family: 'Mukta', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+ 
+}
+button.custom-btn:hover{
+   
+  background-color: white;
+  color: black
+  
+  
+  
+  }
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;700&display=swap');
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
